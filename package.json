@@ -1,6 +1,6 @@
 {
     "name": "@flexent/base64",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Base64 for strings and array buffers",
     "type": "module",
     "sideEffects": false,
