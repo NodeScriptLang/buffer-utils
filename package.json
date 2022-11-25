@@ -1,7 +1,7 @@
 {
-    "name": "@flexent/base64",
+    "name": "@flexent/binary-utils",
     "version": "1.1.0",
-    "description": "Base64 for strings and array buffers",
+    "description": "Binary utils for strings and array buffers",
     "type": "module",
     "sideEffects": false,
     "exports": {
@@ -26,7 +26,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/flexent/base64.git"
+        "url": "git+ssh://git@github.com/flexent/binary-utils.git"
     },
     "keywords": [],
     "author": "Boris Okunskiy",
