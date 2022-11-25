@@ -1,6 +1,6 @@
 {
     "name": "@flexent/binary-utils",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Binary utils for strings and array buffers",
     "type": "module",
     "sideEffects": false,
