@@ -36,9 +36,8 @@ describe('Base64', () => {
         assert.strictEqual(base64ToString('0J_RgNC40LLQtdGCIPCfkYs', true), 'Привет 👋');
     });
 
-    const numbers = [...Array(256).keys()];
-
     it('encodes/decodes binary data', () => {
+        const numbers = [...Array(256).keys()];
         const buffer = new Uint8Array(numbers).buffer;
         const encoded = bufferToBase64(buffer);
         assert.ok(encoded.startsWith, 'AAECAwQFBg');
