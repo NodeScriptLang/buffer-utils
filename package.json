@@ -1,7 +1,7 @@
 {
-    "name": "@nodescript/binary-utils",
-    "version": "1.3.0",
-    "description": "Binary utils for strings and array buffers",
+    "name": "@nodescript/buffer-utils",
+    "version": "0.0.0",
+    "description": "Conversion utilities for strings and array buffers",
     "type": "module",
     "sideEffects": false,
     "exports": {
@@ -26,7 +26,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/nodescript/binary-utils.git"
+        "url": "git+ssh://git@github.com/nodescript/buffer-utils.git"
     },
     "keywords": [],
     "author": "Boris Okunskiy",
