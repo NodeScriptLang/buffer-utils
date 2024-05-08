@@ -1,6 +1,6 @@
 {
     "name": "@nodescript/buffer-utils",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Conversion utilities for strings and array buffers",
     "type": "module",
     "sideEffects": false,
